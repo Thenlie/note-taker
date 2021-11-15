@@ -1,0 +1,22 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application that can be used to write and save notes. This application was made using an express.js backend and gets note data from a JSON file. This was made during the U of U coding bootcamp.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thenlie",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thenlie/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thenlie/note-taker/issues"
+  },
+  "homepage": "https://github.com/Thenlie/note-taker#readme"
+}
