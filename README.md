@@ -23,6 +23,9 @@
 
   Feel free to use this application yourself!
 
+  ## Screenshot of the Application
+
+  ![Screenshot of Note Taker](https://github.com/Thenlie/note-take/blob/public/main/assets/media/screenshot.PNG)
   
   ## License
   
@@ -55,10 +58,6 @@
   ## Contributing
 
   Fork this repo and make it your own! Feel free to submit pull requests for any changes that you think should be added to the final app. 
-
-  ## Tests
-
-  None
   
   ## Questions
 
