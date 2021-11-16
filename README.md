@@ -1,5 +1,9 @@
 # Note Taker  ![Project License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
+  ## Deployed with Heroku at:
+
+  [https://serene-ridge-39054.herokuapp.com/](https://serene-ridge-39054.herokuapp.com/)
+
   ## Description
 
   An application that can be used to write and save notes. This application was made using an express.js backend and gets note data from a JSON file. This was made during the U of U coding bootcamp. 
@@ -17,11 +21,11 @@
 
   ## Installation
 
-  None
+  If you would prefer to run this page on your local machine simply clone the repo and run the command `npm i` in your terminal. This will download all the dependencies you need to run the project. 
 
   ## Usage
 
-  Feel free to use this application yourself!
+  When you reach the landing page simply click on "Get Started" to start taking notes. You will be greeted with a page where you can create notes, view past notes and delete notes. From here it should be pretty self explanatory!
 
   ## Screenshot of the Application
 
