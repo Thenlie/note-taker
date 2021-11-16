@@ -10,6 +10,10 @@ router.get('/', (req, res) => {
 });
 router.post('/notes', (req, res) => {
     addNote(req.body);
+    return(res.statusCode);
+});
+router.delete('/notes', (req, res) => {
+    console.log(req.body)
 });
 
 module.exports = router;

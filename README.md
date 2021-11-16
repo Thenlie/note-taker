@@ -25,7 +25,7 @@
 
   ## Screenshot of the Application
 
-  ![Screenshot of Note Taker](https://github.com/Thenlie/note-take/blob/public/main/assets/media/screenshot.PNG)
+  ![Screenshot of Note Taker](https://github.com/Thenlie/note-taker/blob/main/public/assets/media/screenshot.PNG)
   
   ## License
   
