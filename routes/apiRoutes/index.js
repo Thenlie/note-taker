@@ -10,7 +10,8 @@ router.get('/', (req, res) => {
 });
 router.post('/notes', (req, res) => {
     addNote(req.body).then(() => {
-        return;
+        res.status(200);
+        res.json(note);
     });
 });
 router.delete('/notes', (req, res) => {
