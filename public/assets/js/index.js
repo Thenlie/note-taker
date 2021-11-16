@@ -73,7 +73,6 @@ const handleNoteSave = () => {
   };
   saveNote(newNote).then((data, err) => {
     if (err) throw err;
-    console.log(data);
     getAndRenderNotes();
     renderActiveNote();
   });
@@ -92,6 +91,7 @@ const handleNoteDelete = (e) => {
   }
 
   deleteNote(noteId).then(() => {
+    console.log('hit');
     getAndRenderNotes();
     renderActiveNote();
   });
