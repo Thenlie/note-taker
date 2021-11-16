@@ -9,10 +9,8 @@ router.get('/', (req, res) => {
     res.send('API HERE!');
 });
 router.post('/notes', (req, res) => {
-    addNote(req.body).then(() => {
-        res.status(200);
-        res.json(note);
-    });
+    addNote(req.body);
+    res.json();
 });
 router.delete('/notes', (req, res) => {
     console.log(req.body)
