@@ -6,16 +6,15 @@
 
   ## Description
 
-  An application that can be used to write and save notes. This application was made using an express.js backend and gets note data from a JSON file. This was made during the U of U coding bootcamp. 
+  An Kanban board application that can be used to write and save notes. This application was made using an express.js backend and gets note data from a JSON file. This was made during the U of U coding bootcamp. 
 
   ## Table of Contents
 
-  * [Installation](#Installation)
-  * [Usage](#Usage)
+  * [Installation](#installation)
+  * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
+  * [Contributing](#contributing)
+  * [Questions](#questions)
 
   ***
 
@@ -32,10 +31,10 @@
   ![Screenshot of Note Taker](https://github.com/Thenlie/note-taker/blob/main/public/assets/media/screenshot.PNG)
   
   ## License
+  <details>
   
+  <summary>MIT License</summary>
   
-  > ### MIT License
-  > 
   > Copyright (c) [2021] [Thenlie]
   > 
   > __Permission is hereby granted, free of charge, to any person obtaining a copy__
@@ -56,14 +55,14 @@
   > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   > SOFTWARE.
     
-
+  </details>
     
 
   ## Contributing
 
   Fork this repo and make it your own! Feel free to submit pull requests for any changes that you think should be added to the final app. 
   
-  ## Questions
+  ## Questions?
 
   If you have any questions about the project you can reach out to me via email or GitHub with the information below. 
 
